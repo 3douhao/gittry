@@ -1,3 +1,3 @@
-# this is a unwantted but committed change
+# this is to be reverted
 name = ARGV.first || "World"
 puts "hello, #{name}!"
