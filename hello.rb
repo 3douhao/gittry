@@ -1,3 +1,3 @@
-# this is to be reverted
+# git clean test
 name = ARGV.first || "World"
 puts "hello, #{name}!"
