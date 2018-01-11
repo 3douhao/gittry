@@ -1,4 +1,3 @@
-# git clean test again
-#
+# git clean test
 name = ARGV.first || "World"
 puts "hello, #{name}!"
